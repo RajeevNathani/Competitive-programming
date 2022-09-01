@@ -1,5 +1,7 @@
 # Competitive-programming
 A learning project which involved the implementation of various algorithms and Data Structures in C++
+
+
 Problems solved-
 
 
@@ -18,7 +20,7 @@ Problem Constraints
 
  A[i][j]=0 or A[i][j]=1
 
-
+                                 ****
   
 Problem Description 2
   
@@ -31,7 +33,7 @@ Note: No extra memory is allowed.
 Note: Rows are numbered from top to bottom and columns are numbered from left to right..
   
                        
-                               
+                                  ****
 
                                
                                
